@@ -61,3 +61,8 @@ flutter test
 | Catatan tersimpan | Ubah catatan | Tema gelap |
 |---|---|---|
 | ![](screenshots/04_catatan_tersimpan.png) | ![](screenshots/08_ubah_catatan.png) | ![](screenshots/09_tema_gelap.png) |
+
+## Laporan
+
+- [Laporan (PDF)](laporan/Laporan_Bab8_Paket_Plugin_Flutter_Ahmad_Mofidur_Robbiyal_Aqla.pdf)
+- [Laporan (Word)](laporan/Laporan_Bab8_Paket_Plugin_Flutter_Ahmad_Mofidur_Robbiyal_Aqla.docx)
